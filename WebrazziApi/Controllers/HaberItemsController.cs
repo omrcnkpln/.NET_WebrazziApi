@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebrazziApi.Models;
 
+//try it, try it hard
 namespace WebrazziApi.Controllers
 {
     [Route("api/[controller]")]
