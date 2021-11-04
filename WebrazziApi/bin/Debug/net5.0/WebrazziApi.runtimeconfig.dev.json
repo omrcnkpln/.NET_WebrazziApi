@@ -1,9 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Ömer Can KAPLAN\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Ömer Can KAPLAN\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\kapla\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kapla\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
     ]
   }
 }

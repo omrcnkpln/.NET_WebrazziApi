@@ -31,7 +31,9 @@ namespace WebrazziApi
 
             services.AddControllers();
             services.AddDbContext<HaberContext>(opt =>
-                                               opt.UseInMemoryDatabase("HaberList"));
+                                opt.UseInMemoryDatabase("HaberList"));
+
+            services.AddDbContext<HaberContext>(opt => opt.UseSqlite("HaberList"));
 
             //services.AddSwaggerGen(c =>
             //{
